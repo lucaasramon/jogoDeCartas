@@ -1,6 +1,6 @@
-# Back end do projeto "[front-appbrenna](https://github.com/lucaasramon/ProjetoReact)"
+# Jogo de Cartas 
 
-- Este projeto foi criando apenas para fins de aprendizagem. 
+- Este projeto foi criando apenas com a finalidade de testar o conhecimento com API. 
 
 - Nesse mini projeto, trabalhamos com jogo de cartas que descreve alguns cahorros. Logo de unicio já vai ser exibido para você 5 cartas e logo a baixo dois botões, onde você pode puxar mais 3 cartas ou embaralhar as cartas.
 
