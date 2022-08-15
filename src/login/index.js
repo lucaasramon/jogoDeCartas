@@ -26,7 +26,7 @@ function Login() {
               type="submit"
               onClick={open}
               className="fadeIn fourth"
-              value="Entrar"
+              value="Ver cartas"
             />
           </div>
         </div>
