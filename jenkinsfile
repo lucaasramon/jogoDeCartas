@@ -4,8 +4,9 @@ pipeline {
     stages {
         stage ('inicial') {
             steps {
-                echo 'Nova pipeline'
+                echo 'Nova pipelin'
             }
         }
+        
     }
 }
