@@ -56,14 +56,8 @@ Se não abrir você pode colocar no campo de pesquisa http://localhost:3000/logi
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Obrigado publicamente 🤓.
-* etc.
+Pode usar a vontade haha
 
 
 ---
-⌨️ com ❤️ por [Lucas Ramon](https://gist.github.com/lucaasramon) 😊
+por [Lucas Ramon](https://gist.github.com/lucaasramon) 😊
